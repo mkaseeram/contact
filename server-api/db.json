@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "aea526dc-b984-4289-8dee-ca6d908ce4b5",
+      "name": "Kasi ram",
+      "email": "kaseeram@gmail.com"
+    },
+    {
+      "id": "4d324e8c-723e-444d-aabc-6f4300090266",
+      "name": "jaanu",
+      "email": "jaanu@gmail.com"
+    },
+    {
+      "id": "dfbfa952-7f2f-4457-ba75-b2efd22345c6",
+      "name": "isha",
+      "email": "isha@gmail.com"
+    },
+    {
+      "id": "d086705f-8ce9-44a5-ba43-fb5eccc4c921",
+      "name": "jaharnika",
+      "email": "jaharnika@gmail.com"
+    }
+  ]
+}
